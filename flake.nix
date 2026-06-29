@@ -1,5 +1,5 @@
 {
-  description = "My personal collection of nix flake templates.";
+  description = "My Nix flake templates.";
 
   outputs = _: {
     templates = {
